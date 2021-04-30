@@ -1,0 +1,321 @@
+# depslib dependency file v1.0
+1608131099 source:e:\simulation\junior\main.cpp
+	"protocol.h"
+
+1607607841 source:e:\simulation\junior\address.cpp
+	"Address.h"
+
+1607106096 e:\simulation\junior\address.h
+
+1608132794 source:e:\simulation\junior\socket.cpp
+	"Socket.h"
+
+1607106079 e:\simulation\junior\socket.h
+	<winsock2.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<fcntl.h>
+	<unistd.h>
+	<stdio.h>
+	"Address.h"
+
+1608133812 source:e:\simulation\junior\protocol.cpp
+	"protocol.h"
+
+1608133914 e:\simulation\junior\protocol.h
+	"robot.h"
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	"soket_udp.h"
+	<sstream>
+
+1607705231 e:\simulation\junior\robot.h
+
+1608130237 e:\simulation\junior\soket_udp.h
+
+1608131573 source:e:\simulation\junior\soket_udp.cpp
+	"soket_udp.h"
+	<stdio.h>
+	<string>
+	"Socket.h"
+	"Address.h"
+	"robot.h"
+	<cstdlib>
+
+1607607841 source:c:\users\mohammad hossein\desktop\junior\address.cpp
+	"Address.h"
+
+1607106096 c:\users\mohammad hossein\desktop\junior\address.h
+
+1608926191 source:c:\users\mohammad hossein\desktop\junior\main.cpp
+	"jss.h"
+
+1608133914 c:\users\mohammad hossein\desktop\junior\protocol.h
+	"robot.h"
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	"soket_udp.h"
+	<sstream>
+
+1608926191 c:\users\mohammad hossein\desktop\junior\robot.h
+
+1608925848 c:\users\mohammad hossein\desktop\junior\soket_udp.h
+
+1608926425 source:c:\users\mohammad hossein\desktop\junior\protocol.cpp
+	"jss.h"
+
+1608132794 source:c:\users\mohammad hossein\desktop\junior\socket.cpp
+	"Socket.h"
+
+1607106079 c:\users\mohammad hossein\desktop\junior\socket.h
+	<winsock2.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<fcntl.h>
+	<unistd.h>
+	<stdio.h>
+	"Address.h"
+
+1608926254 source:c:\users\mohammad hossein\desktop\junior\soket_udp.cpp
+	"soket_udp.h"
+	<stdio.h>
+	<string>
+	"Socket.h"
+	"Address.h"
+	"robot.h"
+	<cstdlib>
+
+1608925783 c:\users\mohammad hossein\desktop\junior\jss.h
+	"robot.h"
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	"soket_udp.h"
+	<sstream>
+
+1608977281 source:c:\users\mohammad hossein\desktop\junior\junior-v1.1\address.cpp
+	"Address.h"
+
+1608977166 c:\users\mohammad hossein\desktop\junior\junior-v1.1\address.h
+
+1608977303 source:c:\users\mohammad hossein\desktop\junior\junior-v1.1\socket.cpp
+	"Socket.h"
+
+1608977182 c:\users\mohammad hossein\desktop\junior\junior-v1.1\socket.h
+	<winsock2.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<fcntl.h>
+	<unistd.h>
+	<stdio.h>
+	"Address.h"
+
+1608984536 source:c:\users\mohammad hossein\desktop\junior\junior-v1.1\socket_udp.cpp
+	"socket_udp.h"
+	<stdio.h>
+	<string>
+	"Socket.h"
+	"Address.h"
+	"robot.h"
+	<cstdlib>
+
+1608978329 c:\users\mohammad hossein\desktop\junior\junior-v1.1\socket_udp.h
+
+1608984431 c:\users\mohammad hossein\desktop\junior\junior-v1.1\robot.h
+
+1608977281 source:c:\users\mohammad hossein\desktop\junior-v1.1\address.cpp
+	"Address.h"
+
+1608977166 c:\users\mohammad hossein\desktop\junior-v1.1\address.h
+
+1609085525 source:c:\users\mohammad hossein\desktop\junior-v1.1\main.cpp
+	"robot.h"
+	"iostream"
+
+1608984549 c:\users\mohammad hossein\desktop\junior-v1.1\jss.h
+	"robot.h"
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	"socket_udp.h"
+	<sstream>
+
+1610005737 c:\users\mohammad hossein\desktop\junior-v1.1\robot.h
+
+1609081286 c:\users\mohammad hossein\desktop\junior-v1.1\socket_udp.h
+
+1609073057 source:c:\users\mohammad hossein\desktop\junior-v1.1\protocol.cpp
+	"jss.h"
+
+1609081973 source:c:\users\mohammad hossein\desktop\junior-v1.1\socket.cpp
+	"Socket.h"
+	<stdio.h>
+	<string>
+	"Socket.h"
+	"Address.h"
+	"robot.h"
+	<cstdlib>
+
+1609081990 c:\users\mohammad hossein\desktop\junior-v1.1\socket.h
+	<winsock2.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<fcntl.h>
+	<unistd.h>
+	<stdio.h>
+	"Address.h"
+
+1609081456 source:c:\users\mohammad hossein\desktop\junior-v1.1\socket_udp.cpp
+	<stdio.h>
+	<string>
+	"Socket.h"
+	"Address.h"
+	"robot.h"
+	<cstdlib>
+
+1609078092 source:c:\users\mohammad hossein\desktop\junior-v1.1\jss.cpp
+	"jss.h"
+
+1609100758 source:c:\users\mohammad hossein\desktop\junior-v1.1\robot.cpp
+	"robot.h"
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	"socket_udp.h"
+	<sstream>
+
+1608977281 source:c:\users\mohammad hossein\desktop\open\junior_open-v1\address.cpp
+	"Address.h"
+
+1608977166 c:\users\mohammad hossein\desktop\open\junior_open-v1\address.h
+
+1610620726 source:c:\users\mohammad hossein\desktop\open\junior_open-v1\main.cpp
+	"robot.h"
+	<iostream>
+	<cmath>
+	<math.h>
+
+1610621364 c:\users\mohammad hossein\desktop\open\junior_open-v1\robot.h
+
+1609081973 source:c:\users\mohammad hossein\desktop\open\junior_open-v1\socket.cpp
+	"Socket.h"
+	<stdio.h>
+	<string>
+	"Socket.h"
+	"Address.h"
+	"robot.h"
+	<cstdlib>
+
+1609081990 c:\users\mohammad hossein\desktop\open\junior_open-v1\socket.h
+	<winsock2.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<fcntl.h>
+	<unistd.h>
+	<stdio.h>
+	"Address.h"
+
+1610026846 source:c:\users\mohammad hossein\desktop\open\junior_open-v1\robot.cpp
+	"robot.h"
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	"socket_udp.h"
+	<sstream>
+
+1609081286 c:\users\mohammad hossein\desktop\open\junior_open-v1\socket_udp.h
+
+1608977281 source:e:\project\juniorcup simulation\junior_open-v1\address.cpp
+	"Address.h"
+
+1608977166 e:\project\juniorcup simulation\junior_open-v1\address.h
+
+1612811537 source:e:\project\juniorcup simulation\junior_open-v1\robot.cpp
+	"robot.h"
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	"socket_udp.h"
+	<sstream>
+	<windows.h>
+
+1612811548 e:\project\juniorcup simulation\junior_open-v1\robot.h
+
+1609081286 e:\project\juniorcup simulation\junior_open-v1\socket_udp.h
+
+1609081973 source:e:\project\juniorcup simulation\junior_open-v1\socket.cpp
+	"Socket.h"
+	<stdio.h>
+	<string>
+	"Socket.h"
+	"Address.h"
+	"robot.h"
+	<cstdlib>
+
+1609081990 e:\project\juniorcup simulation\junior_open-v1\socket.h
+	<winsock2.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<fcntl.h>
+	<unistd.h>
+	<stdio.h>
+	"Address.h"
+
+1612811798 source:e:\project\juniorcup simulation\junior_open-v1\main.cpp
+	"robot.h"
+	<iostream>
+	<cmath>
+	<math.h>
+
+1609022281 source:e:\project\juniorcup simulation\applications\junior_open_cpp-v1.3\address.cpp
+	"Address.h"
+
+1609022166 e:\project\juniorcup simulation\applications\junior_open_cpp-v1.3\address.h
+
+1612856537 source:e:\project\juniorcup simulation\applications\junior_open_cpp-v1.3\robot.cpp
+	"robot.h"
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	"socket_udp.h"
+	<sstream>
+	<windows.h>
+
+1612856548 e:\project\juniorcup simulation\applications\junior_open_cpp-v1.3\robot.h
+
+1609126286 e:\project\juniorcup simulation\applications\junior_open_cpp-v1.3\socket_udp.h
+
+1609126973 source:e:\project\juniorcup simulation\applications\junior_open_cpp-v1.3\socket.cpp
+	"Socket.h"
+	<stdio.h>
+	<string>
+	"Socket.h"
+	"Address.h"
+	"robot.h"
+	<cstdlib>
+
+1609126990 e:\project\juniorcup simulation\applications\junior_open_cpp-v1.3\socket.h
+	<winsock2.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<fcntl.h>
+	<unistd.h>
+	<stdio.h>
+	"Address.h"
+
+1615724583 source:e:\project\juniorcup simulation\applications\junior_open_cpp-v1.3\main.cpp
+	"robot.h"
+	<iostream>
+	<cmath>
+	<math.h>
+
